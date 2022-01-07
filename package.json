@@ -1,0 +1,9 @@
+{
+  "name": "bayes.js",
+  "version": "0.0.1",
+  "description": "An implementation of a small MCMC framework and some likelihood functions for doing Bayes stats in the browser. Forked from https://github.com/rasmusab/bayes.js",
+  "repository": "https://github.com/akrawitz/bayes.js",
+  "author": "Adam Krawitz",
+  "license": "UNLICENSED",
+  "private": true
+}
